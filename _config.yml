@@ -1,0 +1,13 @@
+# Site settings
+name: Elements
+title: Elements
+description: This is my foundation.
+baseurl: "/elements"
+
+# Build settings
+highlighter: rouge
+markdown: kramdown
+
+# Sass settings
+sass:
+  sass_dir: assets/stylesheets
