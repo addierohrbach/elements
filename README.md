@@ -1,5 +1,7 @@
-# foundation
-This is my Jekyll foundation project.
+# Elements
+This is a project explaining the difference between block-levels.
+
+To visit this project: http://addierohrbach.github.io/elements/
 
 #### Install Jekyll
 ```
@@ -13,5 +15,5 @@ jekyll serve
 
 #### View the project
 ```
-localhost:4000/foundation/
+localhost:4000/elements/
 ```
